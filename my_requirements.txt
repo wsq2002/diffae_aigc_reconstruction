@@ -1,0 +1,11 @@
+pytorch-lightning
+torchmetrics
+scipy
+numpy
+tqdm
+pytorch-fid
+pandas
+lpips
+lmdb
+ftfy
+regex
